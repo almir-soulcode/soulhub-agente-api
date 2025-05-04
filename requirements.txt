@@ -1,2 +1,9 @@
 fastapi
 uvicorn[standard]
+python-dotenv
+pydantic
+pandas
+openpyxl
+langchain
+langchain-groq
+langchain-openai
